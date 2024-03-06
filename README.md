@@ -1,6 +1,9 @@
 # LGTM 모음
 
-### 1  ![LGTM](https://i.lgtm.fun/2pd6.gif)
+### 1
+```
+![LGTM](https://i.lgtm.fun/2pd6.gif)
+```
 ![LGTM](https://i.lgtm.fun/2pd6.gif)
 
 ### 2
