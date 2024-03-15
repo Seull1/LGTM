@@ -7,10 +7,19 @@
 ![LGTM](https://i.lgtm.fun/2pd6.gif)
 
 ### 2
+```
+![LGTM](https://i.lgtm.fun/2pb6.png)
+```
 ![LGTM](https://i.lgtm.fun/2pb6.png)
 
 ### 3
+```
+![LGTM](https://i.lgtm.fun/1cvq.gif)
+```
 ![LGTM](https://i.lgtm.fun/1cvq.gif)
 
 ### 4
+```
+![LGTM](https://i.lgtm.fun/2oyg.png)
+```
 ![LGTM](https://i.lgtm.fun/2oyg.png)
